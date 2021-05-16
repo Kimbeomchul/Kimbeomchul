@@ -34,9 +34,9 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kimbeomchul&show_icons=true&title_color=cyan&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-###  💻  **Most Lang** 💻 
+###  💻  **Weekly Stats** 💻 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomchul)](https://github.com/kimbeomchul)
+[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimbeomchul)](https://github.com/kimbeomchul)
 
 
 <!--
