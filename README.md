@@ -25,7 +25,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - Professional Cloud Architect
 - Professional Cloud Network Engineer
 - Professional Cloud Security Engineer
-- rofessional Collaboration Engineer
+- Professional Collaboration Engineer
 #####  😎 Oracle Java
 - OCAJP
 - OCJP
