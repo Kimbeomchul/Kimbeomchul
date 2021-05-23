@@ -36,7 +36,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 ###  💻  **Top Langs** 💻 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomchul&layout=compact&bg_color=DEG)](https://github.com/kimbeomchul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbeomchul&layout=compact&bg_color=DEG)](https://github.com/kimbeomchul)
 
 <!--
 Used 
