@@ -6,7 +6,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 ### 👨‍💻 About me 👨‍💻
 
 - **👨‍🎓** **Graduate** at Yonsei University mirae campus 
-- **👨‍💻** **Developing** NHsavingsBank Application (Jan ~ Aug) 
+- **👨‍💻** **Developing** NHsavingsBank Application (Jan ~ Oct) 
 - **👨‍💻** **Developing** Santa Application (May ~ ing) 
 - **🌱** **Google Developers**  DSC(Developer Student Clubs) CoreMember at South Korea
 
