@@ -29,6 +29,10 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - OCAJP
 - OCJP
 
+### NFT ( Design - Figma ) 
+[![Mozzi NFT](https://opensea.io/collection/emotional-mozzi)]
+[![GHOST NFT](https://opensea.io/collection/emotional-ghost)]
+
 ###  💻  **Top Langs** 💻 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbeomchul&layout=compact&bg_color=DEG)](https://github.com/kimbeomchul)
