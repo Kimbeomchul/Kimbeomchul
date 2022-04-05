@@ -30,8 +30,8 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - OCJP
 
 ### 💰 MY NFT 💰
-- [Mozzi NFT](https://opensea.io/collection/emotional-mozzi)
-- [GHOST NFT](https://opensea.io/collection/emotional-ghost)
+- [Emotional Mozzi NFT](https://opensea.io/collection/emotional-mozzi)
+- [Emotional GHOST NFT](https://opensea.io/collection/emotional-ghost)
 - Used ( [ FIGMA & [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine)] )
 
 ###  💻  **Top Langs** 💻 
