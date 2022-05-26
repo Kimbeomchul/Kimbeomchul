@@ -8,7 +8,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - **👨‍🎓** **Graduate** at Yonsei University mirae campus 
 - **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
 - **👨‍💻** **Developing** Kyobobook Application (2022 Jan ~ ing) 
-- **👨‍💻** **Developing** Santa2 Application (2022 Jan ~ ing) 
+- **👨‍💻** **Developing** Santa3 Application (2022 Apr ~ ing) 
 - **🌱** **Google Developers**  DSC(Developer Student Clubs) CoreMember at South Korea
 
 
@@ -33,10 +33,6 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - [Emotional Mozzi NFT](https://opensea.io/collection/emotional-mozzi)
 - [Emotional Ghost NFT](https://opensea.io/collection/emotional-ghost)
 - Used ( [ FIGMA & [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine)] )
-
-###  💻  **Top Langs** 💻 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbeomchul&layout=compact&bg_color=DEG)](https://github.com/kimbeomchul)
 
 <!--
 Used 
