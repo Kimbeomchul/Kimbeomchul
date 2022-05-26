@@ -16,7 +16,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 #### **✏Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=orange) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=round&logo=google) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white) ![tensorflow](https://img.shields.io/badge/tensorflow-000?&logo=tensorflow) ![Spring](https://img.shields.io/badge/Spring-000?&logo=Spring)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=orange) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3)  ![Spring](https://img.shields.io/badge/Spring-000?&logo=Spring) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white)
 
 ## 📖 Certificate 📖 
 #####  😎 Google Cloud Platform
