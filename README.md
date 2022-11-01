@@ -8,7 +8,8 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - **👨‍🎓** **Graduate** at Yonsei University mirae campus 
 - **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
 - **👨‍💻** **Developed** Santa Application (2022 Feb ~ June) 
-- **👨‍💻** **Developing** Kyobobook Application (2022 Jan ~ ing) 
+- **👨‍💻** **Developed** Kyobobook Application (2022 Jan ~ Nov)
+- **👨‍💻** **Developing** Samsung card Application (2022 Nov ~ ing) 
 - **🌱** **Google Developers**  DSC(Developer Student Clubs) CoreMember at South Korea
 
 
