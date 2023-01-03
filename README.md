@@ -25,10 +25,7 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 ## 📖 Certificate 📖 
 #####  😎 Google Cloud Platform
-- Professional Data Engineer
 - Professional Cloud Architect
-- Professional Cloud Network Engineer
-- Professional Cloud Security Engineer
 - Professional Collaboration Engineer
 #####  😎 Oracle Java
 - OCAJP
