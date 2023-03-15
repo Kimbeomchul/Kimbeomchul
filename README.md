@@ -5,12 +5,10 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 ### 👨‍💻 About me 👨‍💻
 
-- **👨‍🎓** **Graduate** at Yonsei University mirae campus 
 - **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
 - **👨‍💻** **Developed** Santa Application (2022 Feb ~ June) 
 - **👨‍💻** **Developed** Kyobobook Application (2022 Jan ~ Dec)
-- **👨‍💻** **Developing** Samsung card Application (2022 Dec ~ ing) 
-- **🌱** **Google Developers**  DSC(Developer Student Clubs) CoreMember at South Korea
+- **🌱** **Google Developers**  GDSC(Google Developer Student Clubs) CoreMember at South Korea
 
 
 ### :green_heart: SANTA - 등산커뮤니티 ( 2022.07.05 ) :green_heart:
