@@ -5,9 +5,11 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 
 ### 👨‍💻 About me 👨‍💻
 
-- **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
+- **👨‍💻** **Developed** Lotte Rental Application (2023 Jan ~ Jul)
+- **👨‍💻** **Developed** Samsung Card Application (2022 Nov ~ Dec)
+- **👨‍💻** **Developed** Kyobobook Application (2022 Jan ~ Nov)
 - **👨‍💻** **Developed** Santa Application (2022 Feb ~ June) 
-- **👨‍💻** **Developed** Kyobobook Application (2022 Jan ~ Dec)
+- **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
 - **🌱** **Google Developers**  GDSC(Google Developer Student Clubs) CoreMember at South Korea
 
 
