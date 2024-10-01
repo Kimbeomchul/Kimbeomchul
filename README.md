@@ -8,9 +8,8 @@ Hello!  My name is Beomchul Kim!  Welcome to my profile 👋
 - **👨‍💻** **Developed** Lotte Rental Application (2023 Jan ~ Jul)
 - **👨‍💻** **Developed** Samsung Card Application (2022 Nov ~ Dec)
 - **👨‍💻** **Developed** Kyobobook Application (2022 Jan ~ Nov)
-- **👨‍💻** **Developed** Santa Application (2022 Feb ~ June) 
 - **👨‍💻** **Developed** NHsavingsBank Application (2021 Jan ~ Oct) 
-- **🌱** **Google Developers**  GDSC(Google Developer Student Clubs) CoreMember at South Korea
+- **🌱** **Google Developers**  GDSC(Google Developer Student Clubs) Yonsei CoreMember at South Korea
 
 
 ### :green_heart: 출시 앱 개발 :green_heart:
